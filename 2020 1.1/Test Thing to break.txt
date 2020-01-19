@@ -2,6 +2,7 @@ This si som text
 
 fox juped over thing
 
+<<<<<<< HEAD
 jsladhgfkashdfvuaysxhck.a
 
 asdfasdf
@@ -9,3 +10,7 @@ asdf
 asdf
 asd
 f
+=======
+
+ajfasildfhlaskdhfkasjdhflkajsdhf
+>>>>>>> 7eab3e7e0523052480cb99fa1e97f27e8712db6d
