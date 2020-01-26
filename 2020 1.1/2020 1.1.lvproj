@@ -582,11 +582,6 @@ AddOutputFilter chunkFilter
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
 			</Item>
 			<Item Name="Drive Train Global.vi" Type="VI" URL="../Globals/Drive Train Global.vi"/>
-<<<<<<< HEAD
-			<Item Name="F.L.Y Stick Controller Global.vi" Type="VI" URL="../SubVI/Controller/F.L.Y Stick Controller Global.vi"/>
-			<Item Name="F.L.Y Stick Controller.vi" Type="VI" URL="../SubVI/Controller/F.L.Y Stick Controller.vi"/>
-=======
->>>>>>> 31fa6229c5201aab5af5b94b68e068f2f9b27bb9
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

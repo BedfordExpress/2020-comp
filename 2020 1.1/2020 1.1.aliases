@@ -1,9 +1,5 @@
 [My Computer]
-<<<<<<< HEAD
 My Computer = "10.24.16.62"
-=======
-My Computer = "10.10.23.225"
->>>>>>> 31fa6229c5201aab5af5b94b68e068f2f9b27bb9
 
 [Target]
 Target = "10.10.23.2"
